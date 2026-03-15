@@ -41,16 +41,23 @@ The dataset used in this project contains information about houses in Bangalore,
 **Model Used**
 
 - Linear Regression
+  
 **Project Structure**
   
 Bangalore-House-Price-Prediction
 │
 ├── Bangalore_House_Data.csv
+
 ├── house_price_prediction.ipynb
+
 ├── README.md
+
 **Results**
+
 The trained model predicts house prices based on input features with reasonable accuracy.
-Future Improvements
+
+**Future Improvements**
+
 - Use advanced models like Random Forest 
 - Deploy the model as a web application
 - Improve feature engineering
